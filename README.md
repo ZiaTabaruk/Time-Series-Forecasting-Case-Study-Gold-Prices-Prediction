@@ -1,6 +1,6 @@
 # Time Series Forecasting Case Study : Gold Prices Prediction
 
-![{8B24F0AB-F673-4DAA-89FB-5544D5333C0D}](https://github.com/user-attachments/assets/3f1faa89-67a1-4311-a0d7-1143059e4d33)
+![{4B0DC994-8A60-4796-89CB-51886FBAD2C0}](https://github.com/user-attachments/assets/e0418474-e762-4b21-9a14-6973ab125627)
 
 ## Latar Belakang
 Perusahaan melacak harga emas bulanan, yang berfluktuasi berdasarkan berbagai faktor ekonomi, tren pasar, dan peristiwa geopolitik. Emas adalah aset investasi dan cadangan yang signifikan bagi banyak industri, pemerintah, dan investor. Perkiraan harga emas yang akurat sangat penting untuk perencanaan keuangan, strategi investasi, dan manajemen risiko.
